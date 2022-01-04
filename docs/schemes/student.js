@@ -21,6 +21,9 @@
       password: {
         type: 'string'
       },
+      totp_secret: {
+        type: 'string'
+      },
       firstname: {
         type: 'string'
       },
