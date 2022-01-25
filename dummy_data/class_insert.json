@@ -26,28 +26,28 @@
 		],
 		"students" : [
 			{
-				"$ref":"",
-				"$id":Objectid("")
+				"$ref":"students",
+				"$id":Objectid("61efe54d0776d0a3faab8bdf")
 			},
 			{
-				"$ref":"",
-				"$id":Objectid("")
+				"$ref":"students",
+				"$id":Objectid("61efe54d0776d0a3faab8be0")
 			},			{
-				"$ref":"",
-				"$id":Objectid("")
+				"$ref":"students",
+				"$id":Objectid("61efe54d0776d0a3faab8be1")
 			},			{
-				"$ref":"",
-				"$id":Objectid("")
+				"$ref":"students",
+				"$id":Objectid("61efe54d0776d0a3faab8be2")
 			},			{
-				"$ref":"",
-				"$id":Objectid("")
+				"$ref":"students",
+				"$id":Objectid("61efe54d0776d0a3faab8be3")
 			},			{
-				"$ref":"",
-				"$id":Objectid("")
+				"$ref":"students",
+				"$id":Objectid("61efe54d0776d0a3faab8be4")
 			},			{
-				"$ref":"",
-				"$id":Objectid("")
-			},
+				"$ref":"students",
+				"$id":Objectid("61efe54d0776d0a3faab8be5")
+			}
 		],
 				"roles" : [],
 				"homework" : []
@@ -86,28 +86,28 @@
 		],
 		"students" : [
 			{
-				"$ref":"",
-				"$id":Objectid("")
+				"$ref":"students",
+				"$id":Objectid("61efe54d0776d0a3faab8be6")
 			},
 			{
-				"$ref":"",
-				"$id":Objectid("")
+				"$ref":"students",
+				"$id":Objectid("61efe54d0776d0a3faab8be7")
 			},			{
-				"$ref":"",
-				"$id":Objectid("")
+				"$ref":"students",
+				"$id":Objectid("61efe54d0776d0a3faab8be8")
 			},			{
-				"$ref":"",
-				"$id":Objectid("")
+				"$ref":"students",
+				"$id":Objectid("61efe54d0776d0a3faab8be9")
 			},			{
-				"$ref":"",
-				"$id":Objectid("")
+				"$ref":"students",
+				"$id":Objectid("61efe54d0776d0a3faab8bea")
 			},			{
-				"$ref":"",
-				"$id":Objectid("")
+				"$ref":"students",
+				"$id":Objectid("61efe54d0776d0a3faab8beb")
 			},			{
-				"$ref":"",
-				"$id":Objectid("")
-			},
+				"$ref":"students",
+				"$id":Objectid("61efe54d0776d0a3faab8bec")
+			}
 		],
 		"roles" : [],
 		"homework" : []
@@ -140,28 +140,28 @@
 		],
 		"students" : [
 			{
-				"$ref":"",
-				"$id":Objectid("")
+				"$ref":"students",
+				"$id":Objectid("61efe54d0776d0a3faab8bed")
 			},
 			{
-				"$ref":"",
-				"$id":Objectid("")
+				"$ref":"students",
+				"$id":Objectid("61efe54d0776d0a3faab8bee")
 			},			{
-				"$ref":"",
-				"$id":Objectid("")
+				"$ref":"students",
+				"$id":Objectid("61efe54d0776d0a3faab8bef")
 			},			{
-				"$ref":"",
-				"$id":Objectid("")
+				"$ref":"students",
+				"$id":Objectid("61efe54d0776d0a3faab8bf0")
 			},			{
-				"$ref":"",
-				"$id":Objectid("")
+				"$ref":"students",
+				"$id":Objectid("61efe54d0776d0a3faab8bf1")
 			},			{
-				"$ref":"",
-				"$id":Objectid("")
+				"$ref":"students",
+				"$id":Objectid("61efe54d0776d0a3faab8bf2")
 			},			{
-				"$ref":"",
-				"$id":Objectid("")
-			},
+				"$ref":"students",
+				"$id":Objectid("61efe54d0776d0a3faab8bf3")
+			}
 		],
 		"roles" : [],
 		"homework" : []
@@ -193,28 +193,28 @@
 		],
 		"students" : [
 			{
-				"$ref":"",
-				"$id":Objectid("")
+				"$ref":"students",
+				"$id":Objectid("61efe54d0776d0a3faab8bf4")
 			},
 			{
-				"$ref":"",
-				"$id":Objectid("")
+				"$ref":"students",
+				"$id":Objectid("61efe54d0776d0a3faab8bf5")
 			},			{
-				"$ref":"",
-				"$id":Objectid("")
+				"$ref":"students",
+				"$id":Objectid("61efe54d0776d0a3faab8bf6")
 			},			{
-				"$ref":"",
-				"$id":Objectid("")
+				"$ref":"students",
+				"$id":Objectid("61efe54d0776d0a3faab8bf7")
 			},			{
-				"$ref":"",
-				"$id":Objectid("")
+				"$ref":"students",
+				"$id":Objectid("61efe54d0776d0a3faab8bf8")
 			},			{
-				"$ref":"",
-				"$id":Objectid("")
+				"$ref":"students",
+				"$id":Objectid("61efe54d0776d0a3faab8bf9")
 			},			{
-				"$ref":"",
-				"$id":Objectid("")
-			},
+				"$ref":"students",
+				"$id":Objectid("61efe54d0776d0a3faab8bfa")
+			}
 		],
 		"roles" : [],
 		"homework" : []
@@ -247,27 +247,27 @@
 		"students" : [
 			{
 				"$ref":"students",
-				"$id":Objectid("")
+				"$id":Objectid("61efe54d0776d0a3faab8bfb")
 			},
 			{
 				"$ref":"students",
-				"$id":Objectid("")
+				"$id":Objectid("61efe54d0776d0a3faab8bfc")
 			},			{
 				"$ref":"students",
-				"$id":Objectid("")
+				"$id":Objectid("61efe54d0776d0a3faab8bfd")
 			},			{
 				"$ref":"students",
-				"$id":Objectid("")
+				"$id":Objectid("61efe54d0776d0a3faab8bfe")
 			},			{
 				"$ref":"students",
-				"$id":Objectid("")
+				"$id":Objectid("61efe54d0776d0a3faab8bff")
 			},			{
 				"$ref":"students",
-				"$id":Objectid("")
+				"$id":Objectid("61efe54d0776d0a3faab8c00")
 			},			{
 				"$ref":"students",
-				"$id":Objectid("")
-			},
+				"$id":Objectid("61efe54d0776d0a3faab8c01")
+			}
 		],
 		"roles" : [
 			{
@@ -279,7 +279,6 @@
 			{"name" : "Senior"}, 
 			{"name" : "User"}
 		],
-		//Komentare weglassen
 		"homework" : [
 		]
 	}
