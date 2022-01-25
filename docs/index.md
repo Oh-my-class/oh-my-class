@@ -12,4 +12,3 @@ This documentation was created with the help of [Arc42](https://arc42.org/).
 4. [Solution Strategy](04.-Solution-Strategy.md)
 5. [Block View](05.-Block-View.md)
 6. [Glossary](06.-Glossary.md)
-7. [Test-Protocol](07.-Testprotocol.md)
