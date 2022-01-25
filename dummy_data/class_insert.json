@@ -1,0 +1,286 @@
+[
+	{
+		"name": "Wylie",
+		"classteacher": "Holly Collier",
+		"subjects" : [
+			{
+				"name": "Deutsch",
+				"teacher": "Emerson Patton",
+				"color": "#a52b29"
+			},
+			{
+				"name": "Mathematik",
+				"teacher": "Kimberly Vargas",
+				"color": "#2ffcb8"
+			},
+			{
+				"name": "Geschichte und Politik",
+				"teacher": "Arthur Wells",
+				"color": "#53a6f4"
+			},
+			{
+				"name": "Physik",
+				"teacher": "Amity Mcpherson",
+				"color": "#005f72"
+			}
+		],
+		"students" : [
+			{
+				"$ref":"",
+				"$id":Objectid("")
+			},
+			{
+				"$ref":"",
+				"$id":Objectid("")
+			},			{
+				"$ref":"",
+				"$id":Objectid("")
+			},			{
+				"$ref":"",
+				"$id":Objectid("")
+			},			{
+				"$ref":"",
+				"$id":Objectid("")
+			},			{
+				"$ref":"",
+				"$id":Objectid("")
+			},			{
+				"$ref":"",
+				"$id":Objectid("")
+			},
+		],
+				"roles" : [],
+				"homework" : []
+
+			},
+	{
+
+		"name": "Isaac",
+		"classteacher": "Carson Curtis",
+		"subjects" : [
+			{
+				"name": "Deutsch",
+				"teacher": "Emerson Patton",
+				"color": "#a52b29"
+			},
+			{
+				"name": "Mathematik",
+				"teacher": "Kimberly Vargas",
+				"color": "#2ffcb8"
+			},
+			{
+				"name": "Geschichte und Politik",
+				"teacher": "Arthur Wells",
+				"color": "#53a6f4"
+			},
+			{
+				"name": "Französisch",
+				"teacher": "Amity Mcpherson",
+				"color": "#005f72"
+			},
+			{
+				"name": "Sport",
+				"teacher": "Ueli Steck",
+				"color": "#005f72"
+			}
+		],
+		"students" : [
+			{
+				"$ref":"",
+				"$id":Objectid("")
+			},
+			{
+				"$ref":"",
+				"$id":Objectid("")
+			},			{
+				"$ref":"",
+				"$id":Objectid("")
+			},			{
+				"$ref":"",
+				"$id":Objectid("")
+			},			{
+				"$ref":"",
+				"$id":Objectid("")
+			},			{
+				"$ref":"",
+				"$id":Objectid("")
+			},			{
+				"$ref":"",
+				"$id":Objectid("")
+			},
+		],
+		"roles" : [],
+		"homework" : []
+	},
+	{
+
+		"name": "Nelle",
+		"classteacher": "Armand Suarez",
+		"subjects" : [
+			{
+				"name": "Deutsch",
+				"teacher": "Emerson Patton",
+				"color": "#a52b29"
+			},
+			{
+				"name": "Mathematik",
+				"teacher": "Kimberly Vargas",
+				"color": "#2ffcb8"
+			},
+			{
+				"name": "Wirtschaft und Recht",
+				"teacher": "Arthur Wells",
+				"color": "#53a6f4"
+			},
+			{
+				"name": "Französisch",
+				"teacher": "Amity Mcpherson",
+				"color": "#005f72"
+			}
+		],
+		"students" : [
+			{
+				"$ref":"",
+				"$id":Objectid("")
+			},
+			{
+				"$ref":"",
+				"$id":Objectid("")
+			},			{
+				"$ref":"",
+				"$id":Objectid("")
+			},			{
+				"$ref":"",
+				"$id":Objectid("")
+			},			{
+				"$ref":"",
+				"$id":Objectid("")
+			},			{
+				"$ref":"",
+				"$id":Objectid("")
+			},			{
+				"$ref":"",
+				"$id":Objectid("")
+			},
+		],
+		"roles" : [],
+		"homework" : []
+	},
+	{
+		"name": "Emmanuel",
+		"classteacher": "Upton Hines",
+		"subjects" : [
+			{
+				"name": "Deutsch",
+				"teacher": "Emerson Patton",
+				"color": "#a52b29"
+			},
+			{
+				"name": "Mathematik",
+				"teacher": "Kimberly Vargas",
+				"color": "#2ffcb8"
+			},
+			{
+				"name": "Geschichte und Politik",
+				"teacher": "Arthur Wells",
+				"color": "#53a6f4"
+			},
+			{
+				"name": "Französisch",
+				"teacher": "Amity Mcpherson",
+				"color": "#005f72"
+			}
+		],
+		"students" : [
+			{
+				"$ref":"",
+				"$id":Objectid("")
+			},
+			{
+				"$ref":"",
+				"$id":Objectid("")
+			},			{
+				"$ref":"",
+				"$id":Objectid("")
+			},			{
+				"$ref":"",
+				"$id":Objectid("")
+			},			{
+				"$ref":"",
+				"$id":Objectid("")
+			},			{
+				"$ref":"",
+				"$id":Objectid("")
+			},			{
+				"$ref":"",
+				"$id":Objectid("")
+			},
+		],
+		"roles" : [],
+		"homework" : []
+	},
+	{
+		"name": "Zia",
+		"classteacher": "Jemima Blair",
+		"subjects" : [
+			{
+				"name": "Deutsch",
+				"teacher": "Emerson Patton",
+				"color": "#a52b29"
+			},
+			{
+				"name": "Chemie",
+				"teacher": "Kimberly Vargas",
+				"color": "#2ffcb8"
+			},
+			{
+				"name": "Geschichte und Politik",
+				"teacher": "Arthur Wells",
+				"color": "#53a6f4"
+			},
+			{
+				"name": "Englisch",
+				"teacher": "Amity Mcpherson",
+				"color": "#005f72"
+			}
+		],
+		"students" : [
+			{
+				"$ref":"students",
+				"$id":Objectid("")
+			},
+			{
+				"$ref":"students",
+				"$id":Objectid("")
+			},			{
+				"$ref":"students",
+				"$id":Objectid("")
+			},			{
+				"$ref":"students",
+				"$id":Objectid("")
+			},			{
+				"$ref":"students",
+				"$id":Objectid("")
+			},			{
+				"$ref":"students",
+				"$id":Objectid("")
+			},			{
+				"$ref":"students",
+				"$id":Objectid("")
+			},
+		],
+		"roles" : [
+			{
+				"name" : "Admin",
+				"permissions" : [
+					"homework.add", "homework.modify, etc."
+				]
+			},
+			{"name" : "Senior"}, 
+			{"name" : "User"}
+		],
+		//Komentare weglassen
+		"homework" : [
+		]
+	}
+]

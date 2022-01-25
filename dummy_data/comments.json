@@ -1,0 +1,22 @@
+[
+	{
+		"_id": 1,
+		"body": "Lorem ipsum dolor sit amet, consectetuer"
+	},
+	{
+		"_id": 2,
+		"body": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur sed tortor. Integer aliquam"
+	},
+	{
+		"_id": 3,
+		"body": "Lorem ipsum dolor sit"
+	},
+	{
+		"_id": 4,
+		"body": "Lorem ipsum dolor sit amet, consectetuer"
+	},
+	{
+		"_id": 5,
+		"body": "Lorem ipsum dolor sit amet, consectetuer adipiscing"
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"_id": 1,
+		"name": "orci.",
+		"teacher": "Emerson Patton",
+		"color": "#a52b29"
+	},
+	{
+		"_id": 2,
+		"name": "sapien,",
+		"teacher": "Kimberly Vargas",
+		"color": "#2ffcb8"
+	},
+	{
+		"_id": 3,
+		"name": "augue.",
+		"teacher": "Arthur Wells",
+		"color": "#53a6f4"
+	},
+	{
+		"_id": 4,
+		"name": "Suspendisse",
+		"teacher": "Amity Mcpherson",
+		"color": "#005f72"
+	}
+]

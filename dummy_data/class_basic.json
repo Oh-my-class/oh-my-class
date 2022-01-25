@@ -1,0 +1,27 @@
+[
+	{
+		"_id": 1,
+		"name": "Wylie",
+		"classteacher": "Holly Collier"
+	},
+	{
+		"_id": 2,
+		"name": "Isaac",
+		"classteacher": "Carson Curtis"
+	},
+	{
+		"_id": 3,
+		"name": "Nelle",
+		"classteacher": "Armand Suarez"
+	},
+	{
+		"_id": 4,
+		"name": "Emmanuel",
+		"classteacher": "Upton Hines"
+	},
+	{
+		"_id": 5,
+		"name": "Zia",
+		"classteacher": "Jemima Blair"
+	}
+]
