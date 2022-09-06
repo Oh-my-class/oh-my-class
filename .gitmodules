@@ -1,0 +1,6 @@
+[submodule "oh-my-backend"]
+	path = oh-my-backend
+	url = https://github.com/oh-my-class/oh-my-backend
+[submodule "oh-my-frontend"]
+	path = oh-my-frontend
+	url = https://github.com/oh-my-class/oh-my-frontend
